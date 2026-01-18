@@ -1,4 +1,4 @@
-package com.garg.springboot_first;
+package com.garg.academic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

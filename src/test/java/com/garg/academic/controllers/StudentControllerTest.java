@@ -1,6 +1,5 @@
-package com.garg.springboot_first.controllers;
+package com.garg.academic.controllers;
 
-import com.garg.academic.controllers.StudentController;
 import com.garg.academic.domian.Student;
 import com.garg.academic.services.StudentService;
 import org.junit.jupiter.api.Test;
